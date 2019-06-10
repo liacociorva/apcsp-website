@@ -1,4 +1,4 @@
-?<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>Form Input 2</title>
